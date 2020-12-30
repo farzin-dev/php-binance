@@ -1,9 +1,9 @@
 {
     "name": "farzin-dev/php-binance",
-    "version": "1.0.2",
+    "version": "1.0.4",
     "description": "A PHP wrapper for the Binance API endpoints.",
     "keywords": ["binance", "cryptocurrency", "php", "api", "wrapper-api", "php-library", "cryptocurrency-exchanges"],
-    "homepage": "https://github.com/larislackers/php-binance",
+    "homepage": "https://github.com/farzin-dev/php-binance",
     "license": "MIT",
     "authors": [
         {
